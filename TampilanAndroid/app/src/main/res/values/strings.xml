@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daftar</string>
+    <string name="kelurahan">Kelurahan</string>
+    <string name="kecamatan">Kecamatan</string>
+</resources>

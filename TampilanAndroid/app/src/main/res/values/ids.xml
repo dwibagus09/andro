@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="navigation_beranda" type="id" />
+    <item name="navigation_pemesanan" type="id" />
+    <item name="navigation_profil" type="id" />
+</resources>
